@@ -1,0 +1,8 @@
+{
+  "name": "Mark E. Langomez - IT Portfolio Portal",
+  "description": "Official digital portfolio and student credentials portal for Mark E. Langomez, 2nd Year BS Information Technology student at Phil Countryville College.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
